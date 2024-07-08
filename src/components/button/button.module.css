@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;   
+    background-color: lightseagreen;
+}
+
+.container button{
+    color: darkblue;
+    font-size: medium;
+    border: solid darkblue;
+    border-radius: 10%;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    margin-left: 15px;
+    padding-right: 10px;
+    background-color: skyblue;
+    cursor: pointer;
+}
+
+.container button:hover{
+    background-color: blue;
+    color: skyblue;
+}
+
+
+.container button:active{
+    color: white;
+}

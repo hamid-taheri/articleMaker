@@ -1,0 +1,16 @@
+.wellcome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: lightseagreen;
+    color: darkblue;
+    height: 400px;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.wellcome img{
+    width: 300px;
+}

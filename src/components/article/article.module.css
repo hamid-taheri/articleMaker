@@ -1,0 +1,47 @@
+.container{
+   height: 400px;
+   background-color: lightseagreen;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+
+.container .div1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   flex: 1;
+}
+
+.container .div1 img{
+    width: 70%;
+}
+
+.container .div1 h2{
+    color: blue;
+    text-align: center;
+
+}
+
+.container .div1 h3{
+    color: red;
+}
+
+.container .div1 h4{
+    color: yellow;
+}
+
+.container .div1 h5{
+    color: brown;
+}
+
+.container .div2{
+    flex: 1;
+}
+
+.container .div2 p{
+    color: blue;
+    text-align: center;
+}

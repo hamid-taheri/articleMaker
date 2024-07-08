@@ -1,0 +1,35 @@
+.sidebar{
+    background-color: darkcyan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 450px;
+}   
+
+.sidebar div{
+    flex: 1;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sidebar div:hover{
+    background-color: blue;
+    cursor: pointer;
+
+}
+
+.sidebar div a{
+    color: white;
+}
+
+.sidebar div a:hover{
+    color: skyblue;
+}
+
+.sidebar div a:active{
+    color: darkgrey;
+}
+

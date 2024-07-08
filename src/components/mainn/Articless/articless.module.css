@@ -1,0 +1,24 @@
+.container{
+    text-align: center;
+    flex: 1;
+}
+
+.container img{
+    width: 80%;
+}
+
+.container h2{
+    color: darkblue;
+}
+
+.container h3{
+    color: rgb(218, 2, 2);
+}
+
+.container h4{
+    color: rgb(231, 231, 157);
+}
+
+.container h5{
+    color: brown;
+}

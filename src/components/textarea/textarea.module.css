@@ -1,0 +1,20 @@
+.container{
+    color: darkblue;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: lightseagreen;
+}
+
+.container label{
+    flex: 18%;
+    margin: 10px;
+    padding: 0;
+    text-align: center;
+}
+
+.container textarea{
+    flex: 82%;
+    margin: 10px;
+    padding: 0;
+}

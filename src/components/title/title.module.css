@@ -1,0 +1,72 @@
+.title{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: skyblue;
+    height: 50px;
+}
+
+.title .d1{
+    flex: 80%;
+    margin-right: 15px;
+}
+
+.title .d1 span{
+    font-size: x-large;
+    color: darkblue;
+}
+
+
+.title .d2{
+    flex: 20%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.title .d2 button{
+    border: solid red;
+    border-radius: 15%;
+    background-color: lightpink;
+    color: red;
+    cursor: pointer;
+    font-size: medium;
+}
+
+.title .d2 button:hover{
+    background-color: lightcoral;
+    color: darkred;
+    border: solid darkred;
+}
+
+.title .d2 button:active{
+    color: white;
+}
+
+.title .d3{
+    flex: 20%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.title .d3 button{
+    border: solid darkblue;
+    border-radius: 15%;
+    color: darkblue;
+    cursor: pointer;
+    background-color: aqua;
+    font-size: medium;
+}
+
+.title .d3 button:hover{
+    background-color: lightseagreen;
+    color: blue;
+    border: solid blue;
+}
+
+.title .d3 button:active{
+    color: white;
+}

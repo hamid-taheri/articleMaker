@@ -1,0 +1,24 @@
+.container{
+    color: darkblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: lightseagreen;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container label{
+    flex: 18%;
+    margin: 10px;
+    padding: 0;
+    text-align: center;
+}
+
+.container input{
+    flex: 82%;
+    margin: 10px;
+    padding: 0;
+}

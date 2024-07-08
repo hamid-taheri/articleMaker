@@ -1,0 +1,45 @@
+.header{
+    display: block;
+    height: 50px;
+}
+
+.header ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    height: 50px;
+}
+
+.header ul li{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkblue;
+    height: 50px;
+}
+
+.header ul li:hover{
+    cursor: pointer;
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header ul li a{
+    color: white;
+}
+
+.header ul li a:hover{
+    color: darkblue;
+}
+
+.header ul li a:active{
+    color: blue;
+}
+
+
+

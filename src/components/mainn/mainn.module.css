@@ -1,0 +1,7 @@
+.main{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: lightseagreen;
+    height: 400px;
+}

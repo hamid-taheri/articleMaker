@@ -1,0 +1,31 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Open_book_nae_02.svg/220px-Open_book_nae_02.svg.png",
+      "title": "جغرافی چیست؟",
+      "athor": "علی احمدی",
+      "readingTime": 5,
+      "date": "1403/01/01",
+      "content": "جغرافیا به دو بخش انسانی و طبیعی تقسیم می شود. جغرافیا از مهم ترین علومی است که به سایر شاخه های علمی کمک می کند."
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Open_book_nae_02.svg/220px-Open_book_nae_02.svg.png",
+      "title": "تاریخ باستان",
+      "athor": "حسین اکبری",
+      "readingTime": 7,
+      "date": "1403/02/01",
+      "content": "تاریخ به طور معمول به دوره های باستان، میانی و عصر جدید طبقه بندی می شود. دوره باستان قدیمی ترین دوران است."
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Open_book_nae_02.svg/220px-Open_book_nae_02.svg.png",
+      "title": "روانشناسی رشد",
+      "athor": "رضا محمدی",
+      "readingTime": 4,
+      "date": "1403/03/01",
+      "content": "روانشناسی علمی در قرن نوزدهم توسط ویلهلم وونت پدید آمد. روانشناسی رشد یکی از شاخه های این علم است."
+    }
+  ]
+}
